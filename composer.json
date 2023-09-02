@@ -1,0 +1,18 @@
+{
+    "name": "nsyuremov/di-container",
+    "description": "Simple DI Container",
+    "type": "library",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Nsyuremov\\DiContainer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikita Syuremov",
+            "email": "syuremov.ng@gmail.com"
+        }
+    ],
+    "require": {}
+}
