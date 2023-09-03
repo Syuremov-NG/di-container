@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Nsyuremov\DiContainer\src;
+namespace Nsyuremov\DiContainer;
 
 use Closure;
 use OutOfBoundsException;
